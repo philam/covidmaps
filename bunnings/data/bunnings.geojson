@@ -1,0 +1,3261 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2020-08-04T11:45:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/22739968",
+        "addr:housenumber": "1467",
+        "addr:street": "Ferntree Gully Road",
+        "brand": "Bunnings Warehouse",
+        "brand:wikidata": "Q4997829",
+        "brand:wikipedia": "en:Bunnings Warehouse",
+        "building": "retail",
+        "building:colour": "seagreen",
+        "fax": "+61 3 9730 8999",
+        "layer": "1",
+        "name": "Bunnings Warehouse",
+        "opening_hours": "Mo-Fr 06:00-21:00; Sa, Su 07:00-19:00",
+        "phone": "+61 3 9730 8900",
+        "shop": "doityourself",
+        "website": "https://www.bunnings.com.au"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              145.2431338,
+              -37.8967071
+            ],
+            [
+              145.2431462,
+              -37.8962819
+            ],
+            [
+              145.2431002,
+              -37.8962833
+            ],
+            [
+              145.242989,
+              -37.896184
+            ],
+            [
+              145.2426816,
+              -37.8961847
+            ],
+            [
+              145.2426793,
+              -37.8961064
+            ],
+            [
+              145.2413825,
+              -37.8961037
+            ],
+            [
+              145.2413782,
+              -37.8967158
+            ],
+            [
+              145.2420528,
+              -37.8967136
+            ],
+            [
+              145.2422647,
+              -37.8967101
+            ],
+            [
+              145.2431338,
+              -37.8967071
+            ]
+          ]
+        ]
+      },
+      "id": "way/22739968"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/25801669",
+        "brand": "Bunnings Warehouse",
+        "brand:wikidata": "Q4997829",
+        "brand:wikipedia": "en:Bunnings Warehouse",
+        "building": "yes",
+        "name": "Bunnings Warehouse",
+        "shop": "doityourself",
+        "website": "https://www.bunnings.com.au/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              144.921678,
+              -37.6758843
+            ],
+            [
+              144.9217838,
+              -37.6752514
+            ],
+            [
+              144.9206189,
+              -37.6751176
+            ],
+            [
+              144.9200814,
+              -37.675064
+            ],
+            [
+              144.9199441,
+              -37.6751531
+            ],
+            [
+              144.9197839,
+              -37.675404
+            ],
+            [
+              144.9197475,
+              -37.6756361
+            ],
+            [
+              144.9210348,
+              -37.6757974
+            ],
+            [
+              144.9210297,
+              -37.6758169
+            ],
+            [
+              144.9210235,
+              -37.6758407
+            ],
+            [
+              144.9212368,
+              -37.6758694
+            ],
+            [
+              144.9212414,
+              -37.6758461
+            ],
+            [
+              144.9212455,
+              -37.6758259
+            ],
+            [
+              144.921678,
+              -37.6758843
+            ]
+          ]
+        ]
+      },
+      "id": "way/25801669"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/28739038",
+        "brand": "Bunnings Warehouse",
+        "brand:wikidata": "Q4997829",
+        "brand:wikipedia": "en:Bunnings Warehouse",
+        "building": "yes",
+        "landuse": "retail",
+        "name": "Bunnings Warehouse",
+        "operator": "Bunnings",
+        "shop": "doityourself",
+        "website": "https://www.bunnings.com.au/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              145.0791644,
+              -37.9450541
+            ],
+            [
+              145.0790303,
+              -37.9457014
+            ],
+            [
+              145.0803392,
+              -37.9458664
+            ],
+            [
+              145.0804116,
+              -37.9454687
+            ],
+            [
+              145.0804707,
+              -37.9452107
+            ],
+            [
+              145.0791644,
+              -37.9450541
+            ]
+          ]
+        ]
+      },
+      "id": "way/28739038"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/28865269",
+        "brand": "Bunnings Warehouse",
+        "brand:wikidata": "Q4997829",
+        "brand:wikipedia": "en:Bunnings Warehouse",
+        "building": "retail",
+        "building:colour": "seagreen",
+        "height": "9 m",
+        "name": "Bunnings Warehouse",
+        "note": "check out demo.f4map.com to see this building in 3d",
+        "roof:height": "2 m",
+        "roof:shape": "gabled",
+        "shop": "doityourself",
+        "website": "https://www.bunnings.com.au/stores/vic/cranbourne"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              145.2788116,
+              -38.0829442
+            ],
+            [
+              145.2787205,
+              -38.083501
+            ],
+            [
+              145.2786902,
+              -38.0836647
+            ],
+            [
+              145.2786352,
+              -38.0840101
+            ],
+            [
+              145.2794292,
+              -38.0840915
+            ],
+            [
+              145.2795443,
+              -38.0833957
+            ],
+            [
+              145.279433,
+              -38.0833843
+            ],
+            [
+              145.2794942,
+              -38.0830141
+            ],
+            [
+              145.2788116,
+              -38.0829442
+            ]
+          ]
+        ]
+      },
+      "id": "way/28865269"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/29175705",
+        "brand": "Bunnings Warehouse",
+        "brand:wikidata": "Q4997829",
+        "brand:wikipedia": "en:Bunnings Warehouse",
+        "building": "retail",
+        "building:colour": "seagreen",
+        "building:height": "10 m",
+        "layer": "1",
+        "name": "Bunnings Warehouse",
+        "shop": "doityourself",
+        "website": "https://www.bunnings.com.au/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              145.2789656,
+              -37.8295945
+            ],
+            [
+              145.2795523,
+              -37.8306751
+            ],
+            [
+              145.2796407,
+              -37.8306458
+            ],
+            [
+              145.2797652,
+              -37.830892
+            ],
+            [
+              145.2804078,
+              -37.8306768
+            ],
+            [
+              145.2800536,
+              -37.8300347
+            ],
+            [
+              145.2799745,
+              -37.8298879
+            ],
+            [
+              145.2796874,
+              -37.8293623
+            ],
+            [
+              145.2789656,
+              -37.8295945
+            ]
+          ]
+        ]
+      },
+      "id": "way/29175705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30733924",
+        "area": "yes",
+        "brand": "Bunnings Warehouse",
+        "brand:wikidata": "Q4997829",
+        "brand:wikipedia": "en:Bunnings Warehouse",
+        "landuse": "retail",
+        "name": "Bunnings Warehouse",
+        "shop": "doityourself",
+        "website": "https://www.bunnings.com.au/stores/vic/frankston"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              145.1344021,
+              -38.1504227
+            ],
+            [
+              145.1367964,
+              -38.1510906
+            ],
+            [
+              145.1372506,
+              -38.1501278
+            ],
+            [
+              145.1373619,
+              -38.1497774
+            ],
+            [
+              145.1351542,
+              -38.149215
+            ],
+            [
+              145.134893,
+              -38.1492246
+            ],
+            [
+              145.1344021,
+              -38.1504227
+            ]
+          ]
+        ]
+      },
+      "id": "way/30733924"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30834622",
+        "addr:city": "Melbourne",
+        "addr:country": "AU",
+        "addr:housenumber": "248",
+        "addr:postcode": "3131",
+        "addr:state": "Victoria",
+        "addr:street": "Maroondah Highway",
+        "addr:suburb": "Nunawading",
+        "area": "yes",
+        "brand": "Bunnings Warehouse",
+        "brand:wikidata": "Q4997829",
+        "brand:wikipedia": "en:Bunnings Warehouse",
+        "building": "yes",
+        "layer": "1",
+        "name": "Bunnings Warehouse",
+        "opening_hours": "Mo-Su 07:00-21:00",
+        "opening_hours:url": "https://www.bunnings.com.au/stores/vic/nunawading",
+        "shop": "doityourself",
+        "source": "Vicmap",
+        "website": "https://www.bunnings.com.au/stores/vic/nunawading"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              145.1670954,
+              -37.8203289
+            ],
+            [
+              145.1673032,
+              -37.8193479
+            ],
+            [
+              145.1674213,
+              -37.8187901
+            ],
+            [
+              145.1670357,
+              -37.8187413
+            ],
+            [
+              145.1670471,
+              -37.8186863
+            ],
+            [
+              145.1666568,
+              -37.8186333
+            ],
+            [
+              145.1666454,
+              -37.8186887
+            ],
+            [
+              145.1666079,
+              -37.8186836
+            ],
+            [
+              145.1663276,
+              -37.8199957
+            ],
+            [
+              145.1664275,
+              -37.8200095
+            ],
+            [
+              145.1663799,
+              -37.8202319
+            ],
+            [
+              145.1670954,
+              -37.8203289
+            ]
+          ]
+        ]
+      },
+      "id": "way/30834622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/33172853",
+        "building": "retail",
+        "name": "Bunnings Warehouse",
+        "shop": "doityourself",
+        "website": "https://www.bunnings.com.au/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              144.9597322,
+              -37.7333431
+            ],
+            [
+              144.9603266,
+              -37.7334099
+            ],
+            [
+              144.9605323,
+              -37.7313826
+            ],
+            [
+              144.9599422,
+              -37.7313232
+            ],
+            [
+              144.9598469,
+              -37.7322395
+            ],
+            [
+              144.9598064,
+              -37.7322399
+            ],
+            [
+              144.9597683,
+              -37.7322376
+            ],
+            [
+              144.9597498,
+              -37.732366
+            ],
+            [
+              144.9597886,
+              -37.7323702
+            ],
+            [
+              144.9598329,
+              -37.732375
+            ],
+            [
+              144.9597322,
+              -37.7333431
+            ]
+          ]
+        ]
+      },
+      "id": "way/33172853"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/35603213",
+        "addr:housename": "Bunnings Warehouse",
+        "addr:housenumber": "430",
+        "addr:postcode": "3038",
+        "addr:street": "Melton Highway",
+        "brand": "Bunnings Warehouse",
+        "brand:wikidata": "Q4997829",
+        "brand:wikipedia": "en:Bunnings Warehouse",
+        "building": "retail",
+        "layer": "1",
+        "name": "Bunnings Warehouse",
+        "shop": "doityourself",
+        "website": "https://www.bunnings.com.au/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              144.7788379,
+              -37.6959687
+            ],
+            [
+              144.7795767,
+              -37.6961282
+            ],
+            [
+              144.7795696,
+              -37.6961486
+            ],
+            [
+              144.7795625,
+              -37.6961692
+            ],
+            [
+              144.779747,
+              -37.6962091
+            ],
+            [
+              144.7797548,
+              -37.6961872
+            ],
+            [
+              144.779762,
+              -37.6961671
+            ],
+            [
+              144.780326,
+              -37.6962886
+            ],
+            [
+              144.7807426,
+              -37.6963802
+            ],
+            [
+              144.780959,
+              -37.6957642
+            ],
+            [
+              144.7794824,
+              -37.6954321
+            ],
+            [
+              144.779456,
+              -37.6955047
+            ],
+            [
+              144.7790038,
+              -37.6954021
+            ],
+            [
+              144.7788919,
+              -37.6953781
+            ],
+            [
+              144.7787267,
+              -37.6958606
+            ],
+            [
+              144.778711,
+              -37.6959061
+            ],
+            [
+              144.7788492,
+              -37.6959359
+            ],
+            [
+              144.7788379,
+              -37.6959687
+            ]
+          ]
+        ]
+      },
+      "id": "way/35603213"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/36808142",
+        "brand": "Bunnings Warehouse",
+        "brand:wikidata": "Q4997829",
+        "brand:wikipedia": "en:Bunnings Warehouse",
+        "building": "yes",
+        "building:colour": "seagreen",
+        "height": "10 m",
+        "name": "Bunnings Warehouse",
+        "roof:height": "2 m",
+        "roof:shape": "gabled",
+        "shop": "doityourself",
+        "website": "https://www.bunnings.com.au/stores/vic/keysborough"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              145.1478856,
+              -37.9898309
+            ],
+            [
+              145.1477832,
+              -37.9897499
+            ],
+            [
+              145.1474244,
+              -37.9897093
+            ],
+            [
+              145.1474409,
+              -37.9896389
+            ],
+            [
+              145.146175,
+              -37.9894856
+            ],
+            [
+              145.1460509,
+              -37.9900879
+            ],
+            [
+              145.1467263,
+              -37.9901801
+            ],
+            [
+              145.1469265,
+              -37.9902018
+            ],
+            [
+              145.1474785,
+              -37.9902735
+            ],
+            [
+              145.1477738,
+              -37.9903118
+            ],
+            [
+              145.1478856,
+              -37.9898309
+            ]
+          ]
+        ]
+      },
+      "id": "way/36808142"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/38968729",
+        "addr:housenumber": "501",
+        "addr:postcode": "3207",
+        "addr:street": "Williamstown Road",
+        "building": "retail",
+        "building:colour": "seagreen",
+        "layer": "1",
+        "name": "Bunnings Warehouse",
+        "shop": "doityourself",
+        "website": "https://www.bunnings.com.au/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              144.9383374,
+              -37.8308061
+            ],
+            [
+              144.9385552,
+              -37.8315345
+            ],
+            [
+              144.9383375,
+              -37.831591
+            ],
+            [
+              144.9384197,
+              -37.8318707
+            ],
+            [
+              144.9385154,
+              -37.8321638
+            ],
+            [
+              144.9397389,
+              -37.8319244
+            ],
+            [
+              144.9397116,
+              -37.8318328
+            ],
+            [
+              144.9396239,
+              -37.8318514
+            ],
+            [
+              144.9395858,
+              -37.8317091
+            ],
+            [
+              144.9396785,
+              -37.8316842
+            ],
+            [
+              144.9396355,
+              -37.8315294
+            ],
+            [
+              144.9395821,
+              -37.8315409
+            ],
+            [
+              144.9395364,
+              -37.8313655
+            ],
+            [
+              144.9394037,
+              -37.831385
+            ],
+            [
+              144.9391795,
+              -37.8306918
+            ],
+            [
+              144.9385057,
+              -37.8308103
+            ],
+            [
+              144.9384773,
+              -37.8307041
+            ],
+            [
+              144.9383374,
+              -37.8308061
+            ]
+          ]
+        ]
+      },
+      "id": "way/38968729"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/43201490",
+        "brand": "Bunnings Warehouse",
+        "brand:wikidata": "Q4997829",
+        "brand:wikipedia": "en:Bunnings Warehouse",
+        "building": "retail",
+        "name": "Bunnings Warehouse",
+        "shop": "doityourself",
+        "website": "https://www.bunnings.com.au/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              145.1272395,
+              -37.9011654
+            ],
+            [
+              145.1274626,
+              -37.8999734
+            ],
+            [
+              145.1266043,
+              -37.8998718
+            ],
+            [
+              145.1263726,
+              -37.901057
+            ],
+            [
+              145.1272395,
+              -37.9011654
+            ]
+          ]
+        ]
+      },
+      "id": "way/43201490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/44351399",
+        "addr:city": "Vermont South",
+        "addr:country": "AU",
+        "addr:housenumber": "606-634",
+        "addr:postcode": "3133",
+        "addr:state": "Victoria",
+        "addr:street": "Burwood Highway",
+        "brand": "Bunnings Warehouse",
+        "brand:wikidata": "Q4997829",
+        "brand:wikipedia": "en:Bunnings Warehouse",
+        "building": "yes",
+        "building:colour": "seagreen",
+        "name": "Bunnings Warehouse",
+        "shop": "doityourself",
+        "website": "https://www.bunnings.com.au/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              145.1966148,
+              -37.8592855
+            ],
+            [
+              145.196495,
+              -37.8599011
+            ],
+            [
+              145.1964678,
+              -37.859897
+            ],
+            [
+              145.196441,
+              -37.859893
+            ],
+            [
+              145.1964095,
+              -37.8600504
+            ],
+            [
+              145.1964356,
+              -37.8600535
+            ],
+            [
+              145.1964627,
+              -37.8600566
+            ],
+            [
+              145.1963755,
+              -37.8605002
+            ],
+            [
+              145.1963682,
+              -37.8605372
+            ],
+            [
+              145.1963506,
+              -37.8606267
+            ],
+            [
+              145.1963437,
+              -37.8606617
+            ],
+            [
+              145.1963257,
+              -37.8607535
+            ],
+            [
+              145.1970241,
+              -37.8608417
+            ],
+            [
+              145.1970779,
+              -37.86057
+            ],
+            [
+              145.197195,
+              -37.8605849
+            ],
+            [
+              145.1973969,
+              -37.8595621
+            ],
+            [
+              145.1974305,
+              -37.8593921
+            ],
+            [
+              145.1966148,
+              -37.8592855
+            ]
+          ]
+        ]
+      },
+      "id": "way/44351399"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/48154633",
+        "addr:city": "Eltham",
+        "addr:country": "AU",
+        "addr:housenumber": "25",
+        "addr:postcode": "3095",
+        "addr:state": "Victoria",
+        "addr:street": "Bridge Street",
+        "brand": "Bunnings Warehouse",
+        "brand:wikidata": "Q4997829",
+        "brand:wikipedia": "en:Bunnings Warehouse",
+        "building": "yes",
+        "fax": "+61-3-94300199",
+        "name": "Bunnings Warehouse",
+        "opening_hours": "Mo-We 07:00-19:00; Th,Fr 07:00-21:00; Sa,Su 08:00-18:00",
+        "phone": "+61-3-94300100",
+        "shop": "doityourself",
+        "source": "nearmap; knowledge",
+        "website": "https://www.bunnings.com.au/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              145.1414766,
+              -37.7176302
+            ],
+            [
+              145.1402551,
+              -37.7174901
+            ],
+            [
+              145.1402507,
+              -37.7175142
+            ],
+            [
+              145.1401738,
+              -37.7175054
+            ],
+            [
+              145.1400804,
+              -37.7180149
+            ],
+            [
+              145.140199,
+              -37.7180284
+            ],
+            [
+              145.1402595,
+              -37.7180355
+            ],
+            [
+              145.1402708,
+              -37.7179743
+            ],
+            [
+              145.1407379,
+              -37.7180287
+            ],
+            [
+              145.1408896,
+              -37.7180462
+            ],
+            [
+              145.1414574,
+              -37.7181114
+            ],
+            [
+              145.1414854,
+              -37.7179584
+            ],
+            [
+              145.1416627,
+              -37.7179787
+            ],
+            [
+              145.1416998,
+              -37.7177766
+            ],
+            [
+              145.1414549,
+              -37.7177485
+            ],
+            [
+              145.1414766,
+              -37.7176302
+            ]
+          ]
+        ]
+      },
+      "id": "way/48154633"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/48528878",
+        "brand": "Bunnings Warehouse",
+        "brand:wikidata": "Q4997829",
+        "brand:wikipedia": "en:Bunnings Warehouse",
+        "landuse": "retail",
+        "name": "Bunnings Warehouse",
+        "shop": "doityourself",
+        "website": "https://www.bunnings.com.au/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              144.8827682,
+              -37.8036574
+            ],
+            [
+              144.8845672,
+              -37.8027188
+            ],
+            [
+              144.8843787,
+              -37.8024989
+            ],
+            [
+              144.8823009,
+              -37.8022728
+            ],
+            [
+              144.8822824,
+              -37.8023218
+            ],
+            [
+              144.8818185,
+              -37.8022585
+            ],
+            [
+              144.8817318,
+              -37.8022845
+            ],
+            [
+              144.8816946,
+              -37.8023491
+            ],
+            [
+              144.8817414,
+              -37.8024352
+            ],
+            [
+              144.8827682,
+              -37.8036574
+            ]
+          ]
+        ]
+      },
+      "id": "way/48528878"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/51392083",
+        "building": "retail",
+        "name": "Bunnings Warehouse"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              144.9615997,
+              -37.7674861
+            ],
+            [
+              144.9615746,
+              -37.7676471
+            ],
+            [
+              144.9619301,
+              -37.7676785
+            ],
+            [
+              144.9619531,
+              -37.7675258
+            ],
+            [
+              144.9615997,
+              -37.7674861
+            ]
+          ]
+        ]
+      },
+      "id": "way/51392083"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/51392085",
+        "building": "retail",
+        "name": "Bunnings Warehouse"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              144.9609423,
+              -37.7674145
+            ],
+            [
+              144.9609154,
+              -37.7675653
+            ],
+            [
+              144.9615135,
+              -37.767632
+            ],
+            [
+              144.9615404,
+              -37.7674811
+            ],
+            [
+              144.9609423,
+              -37.7674145
+            ]
+          ]
+        ]
+      },
+      "id": "way/51392085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/54781859",
+        "brand": "Bunnings Warehouse",
+        "brand:wikidata": "Q4997829",
+        "brand:wikipedia": "en:Bunnings Warehouse",
+        "building": "retail",
+        "name": "Bunnings Warehouse",
+        "shop": "doityourself",
+        "website": "https://www.bunnings.com.au/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              145.456927,
+              -38.061798
+            ],
+            [
+              145.4576889,
+              -38.0619821
+            ],
+            [
+              145.4580293,
+              -38.0604244
+            ],
+            [
+              145.4572281,
+              -38.0603173
+            ],
+            [
+              145.4571267,
+              -38.0609385
+            ],
+            [
+              145.4570788,
+              -38.0609328
+            ],
+            [
+              145.4570378,
+              -38.0609279
+            ],
+            [
+              145.4570124,
+              -38.0610493
+            ],
+            [
+              145.4570566,
+              -38.0610528
+            ],
+            [
+              145.4570952,
+              -38.0610559
+            ],
+            [
+              145.456927,
+              -38.061798
+            ]
+          ]
+        ]
+      },
+      "id": "way/54781859"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/54962152",
+        "addr:city": "Pakenham",
+        "addr:housenumber": "56",
+        "addr:postcode": "3810",
+        "addr:street": "Bald Hill Road",
+        "brand": "Bunnings Warehouse",
+        "brand:wikidata": "Q4997829",
+        "brand:wikipedia": "en:Bunnings Warehouse",
+        "building": "retail",
+        "building:colour": "seagreen",
+        "full_name": "Bunnings East Pakenham",
+        "name": "Bunnings Warehouse",
+        "shop": "doityourself",
+        "website": "https://www.bunnings.com.au/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              145.4939852,
+              -38.0834929
+            ],
+            [
+              145.4935057,
+              -38.0834272
+            ],
+            [
+              145.493493,
+              -38.0834849
+            ],
+            [
+              145.4933506,
+              -38.0834654
+            ],
+            [
+              145.4933251,
+              -38.0835808
+            ],
+            [
+              145.4934523,
+              -38.0835983
+            ],
+            [
+              145.493396,
+              -38.0838527
+            ],
+            [
+              145.4933699,
+              -38.0838469
+            ],
+            [
+              145.4933513,
+              -38.0839377
+            ],
+            [
+              145.4933762,
+              -38.0839419
+            ],
+            [
+              145.4933452,
+              -38.0840823
+            ],
+            [
+              145.4935463,
+              -38.0841099
+            ],
+            [
+              145.4935049,
+              -38.0842966
+            ],
+            [
+              145.4937985,
+              -38.0843368
+            ],
+            [
+              145.4939852,
+              -38.0834929
+            ]
+          ]
+        ]
+      },
+      "id": "way/54962152"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/61760438",
+        "brand": "Bunnings Warehouse",
+        "brand:wikidata": "Q4997829",
+        "brand:wikipedia": "en:Bunnings Warehouse",
+        "building": "retail",
+        "name": "Bunnings Warehouse",
+        "shop": "doityourself",
+        "website": "https://www.bunnings.com.au/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              145.0794282,
+              -37.6541037
+            ],
+            [
+              145.0798803,
+              -37.6545955
+            ],
+            [
+              145.0798597,
+              -37.6546078
+            ],
+            [
+              145.0798359,
+              -37.6546219
+            ],
+            [
+              145.0798975,
+              -37.6546917
+            ],
+            [
+              145.079954,
+              -37.6547557
+            ],
+            [
+              145.0799773,
+              -37.6547408
+            ],
+            [
+              145.0800003,
+              -37.6547261
+            ],
+            [
+              145.0804609,
+              -37.6552271
+            ],
+            [
+              145.0807801,
+              -37.6550402
+            ],
+            [
+              145.080713,
+              -37.6549659
+            ],
+            [
+              145.0810403,
+              -37.6547748
+            ],
+            [
+              145.0802731,
+              -37.6539466
+            ],
+            [
+              145.0802034,
+              -37.6539891
+            ],
+            [
+              145.0799942,
+              -37.6537767
+            ],
+            [
+              145.0794282,
+              -37.6541037
+            ]
+          ]
+        ]
+      },
+      "id": "way/61760438"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/70942691",
+        "brand": "Bunnings Warehouse",
+        "brand:wikidata": "Q4997829",
+        "brand:wikipedia": "en:Bunnings Warehouse",
+        "building": "yes",
+        "name": "Bunnings Warehouse",
+        "shop": "doityourself",
+        "website": "https://www.bunnings.com.au/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              144.5617179,
+              -37.6884422
+            ],
+            [
+              144.5616796,
+              -37.6889706
+            ],
+            [
+              144.5617359,
+              -37.6890874
+            ],
+            [
+              144.5637449,
+              -37.6891808
+            ],
+            [
+              144.5638093,
+              -37.68844
+            ],
+            [
+              144.5637261,
+              -37.6884357
+            ],
+            [
+              144.5635115,
+              -37.6884273
+            ],
+            [
+              144.563507,
+              -37.6885311
+            ],
+            [
+              144.5628654,
+              -37.6884992
+            ],
+            [
+              144.5617179,
+              -37.6884422
+            ]
+          ]
+        ]
+      },
+      "id": "way/70942691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/93868522",
+        "brand": "Bunnings Warehouse",
+        "brand:wikidata": "Q4997829",
+        "brand:wikipedia": "en:Bunnings Warehouse",
+        "building": "yes",
+        "full_name": "Bunnings Warehouse Craigieburn",
+        "name": "Bunnings Warehouse",
+        "shop": "doityourself",
+        "website": "https://www.bunnings.com.au/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              144.9425291,
+              -37.5825162
+            ],
+            [
+              144.9418961,
+              -37.5811364
+            ],
+            [
+              144.9417921,
+              -37.5811062
+            ],
+            [
+              144.941127,
+              -37.5813085
+            ],
+            [
+              144.9412591,
+              -37.5816075
+            ],
+            [
+              144.9415179,
+              -37.5821602
+            ],
+            [
+              144.9414917,
+              -37.5821685
+            ],
+            [
+              144.941471,
+              -37.5821751
+            ],
+            [
+              144.9415394,
+              -37.5823217
+            ],
+            [
+              144.9415599,
+              -37.5823155
+            ],
+            [
+              144.941585,
+              -37.5823079
+            ],
+            [
+              144.9417834,
+              -37.5827308
+            ],
+            [
+              144.9418655,
+              -37.5829045
+            ],
+            [
+              144.9419068,
+              -37.5829924
+            ],
+            [
+              144.94256,
+              -37.5827989
+            ],
+            [
+              144.9424419,
+              -37.5825428
+            ],
+            [
+              144.9425291,
+              -37.5825162
+            ]
+          ]
+        ]
+      },
+      "id": "way/93868522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/104345706",
+        "building": "yes",
+        "full_name": "Bunnings Warehouse Rosebud",
+        "name": "Bunnings Warehouse",
+        "shop": "doityourself",
+        "source": "nearmap"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              144.8864521,
+              -38.3858073
+            ],
+            [
+              144.8864374,
+              -38.3861752
+            ],
+            [
+              144.8865004,
+              -38.3862288
+            ],
+            [
+              144.8868303,
+              -38.3862351
+            ],
+            [
+              144.8868249,
+              -38.3862992
+            ],
+            [
+              144.8879273,
+              -38.3863234
+            ],
+            [
+              144.8879501,
+              -38.3858419
+            ],
+            [
+              144.887545,
+              -38.3858356
+            ],
+            [
+              144.8874717,
+              -38.3858344
+            ],
+            [
+              144.8874728,
+              -38.3858106
+            ],
+            [
+              144.887474,
+              -38.385783
+            ],
+            [
+              144.8873197,
+              -38.3857795
+            ],
+            [
+              144.8873183,
+              -38.3858044
+            ],
+            [
+              144.887317,
+              -38.3858273
+            ],
+            [
+              144.8872191,
+              -38.385825
+            ],
+            [
+              144.8864521,
+              -38.3858073
+            ]
+          ]
+        ]
+      },
+      "id": "way/104345706"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/105136824",
+        "addr:city": "Preston",
+        "addr:housenumber": "120",
+        "addr:postcode": "3072",
+        "addr:street": "Chifley Drive",
+        "brand": "Bunnings Warehouse",
+        "brand:wikidata": "Q4997829",
+        "brand:wikipedia": "en:Bunnings Warehouse",
+        "building": "yes",
+        "fax": "+61 3 94166099",
+        "name": "Bunnings Warehouse",
+        "opening_hours": "Mo-Fr 7:00-21:00; Sa 7:00-19:00; Su 7:00-18:00",
+        "phone": "+61 3 94166000",
+        "shop": "doityourself",
+        "website": "https://www.bunnings.com.au/northland",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              145.0319125,
+              -37.7412806
+            ],
+            [
+              145.0318749,
+              -37.7415606
+            ],
+            [
+              145.032077,
+              -37.7415852
+            ],
+            [
+              145.031916,
+              -37.7424973
+            ],
+            [
+              145.0319608,
+              -37.7427229
+            ],
+            [
+              145.0326635,
+              -37.7428289
+            ],
+            [
+              145.0326742,
+              -37.7427101
+            ],
+            [
+              145.0330093,
+              -37.7427422
+            ],
+            [
+              145.033098,
+              -37.7421841
+            ],
+            [
+              145.0327815,
+              -37.742129
+            ],
+            [
+              145.0328132,
+              -37.7418357
+            ],
+            [
+              145.0324972,
+              -37.7418023
+            ],
+            [
+              145.0325348,
+              -37.7415521
+            ],
+            [
+              145.032288,
+              -37.7415309
+            ],
+            [
+              145.0322987,
+              -37.7413781
+            ],
+            [
+              145.0321539,
+              -37.7412933
+            ],
+            [
+              145.0319125,
+              -37.7412806
+            ]
+          ]
+        ]
+      },
+      "id": "way/105136824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/105720119",
+        "addr:housenumber": "230",
+        "addr:postcode": "3122",
+        "addr:state": "Victoria",
+        "addr:street": "Burwood Road",
+        "addr:suburb": "Hawthorn",
+        "brand": "Bunnings Warehouse",
+        "brand:wikidata": "Q4997829",
+        "brand:wikipedia": "en:Bunnings Warehouse",
+        "building": "retail",
+        "contact:website": "https://www.bunnings.com.au/stores/vic/hawthorn",
+        "fax": "+613 8862 9599",
+        "name": "Bunnings Warehouse",
+        "opening_hours": "Mo-Fr 06:30-21:00; Sa-Su 07:00-19:00",
+        "phone": "+613 8862 9500",
+        "shop": "doityourself",
+        "website": "https://www.bunnings.com.au/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              145.0319164,
+              -37.8223067
+            ],
+            [
+              145.0317784,
+              -37.8222904
+            ],
+            [
+              145.031038,
+              -37.8222029
+            ],
+            [
+              145.0308772,
+              -37.8230272
+            ],
+            [
+              145.0315969,
+              -37.8230361
+            ],
+            [
+              145.0317684,
+              -37.8230966
+            ],
+            [
+              145.0317982,
+              -37.8229374
+            ],
+            [
+              145.0319164,
+              -37.8223067
+            ]
+          ]
+        ]
+      },
+      "id": "way/105720119"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/109503467",
+        "brand": "Bunnings Warehouse",
+        "brand:wikidata": "Q4997829",
+        "brand:wikipedia": "en:Bunnings Warehouse",
+        "landuse": "retail",
+        "name": "Bunnings Warehouse",
+        "shop": "doityourself",
+        "website": "https://www.bunnings.com.au/stores/vic/mornington"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              145.0574965,
+              -38.2204857
+            ],
+            [
+              145.0589275,
+              -38.2208772
+            ],
+            [
+              145.0607192,
+              -38.2194022
+            ],
+            [
+              145.0599789,
+              -38.2187784
+            ],
+            [
+              145.0596516,
+              -38.2185344
+            ],
+            [
+              145.0593951,
+              -38.2187187
+            ],
+            [
+              145.0580155,
+              -38.21971
+            ],
+            [
+              145.0576242,
+              -38.2199587
+            ],
+            [
+              145.0574965,
+              -38.2204857
+            ]
+          ]
+        ]
+      },
+      "id": "way/109503467"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/121870160",
+        "brand": "Bunnings Warehouse",
+        "brand:wikidata": "Q4997829",
+        "brand:wikipedia": "en:Bunnings Warehouse",
+        "building": "retail",
+        "full_name": "Bunnings Warehouse Caroline Springs",
+        "name": "Bunnings Warehouse",
+        "shop": "doityourself",
+        "website": "https://www.bunnings.com.au/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              144.747968,
+              -37.7598731
+            ],
+            [
+              144.7475375,
+              -37.7598424
+            ],
+            [
+              144.7475355,
+              -37.7598604
+            ],
+            [
+              144.7474597,
+              -37.7605453
+            ],
+            [
+              144.7474331,
+              -37.7605437
+            ],
+            [
+              144.7474074,
+              -37.7605421
+            ],
+            [
+              144.7473886,
+              -37.7607001
+            ],
+            [
+              144.7474181,
+              -37.7607018
+            ],
+            [
+              144.7474436,
+              -37.7607033
+            ],
+            [
+              144.7473863,
+              -37.7612356
+            ],
+            [
+              144.7473648,
+              -37.7614351
+            ],
+            [
+              144.7473551,
+              -37.761525
+            ],
+            [
+              144.7478942,
+              -37.76156
+            ],
+            [
+              144.7480592,
+              -37.7615101
+            ],
+            [
+              144.7480694,
+              -37.7614064
+            ],
+            [
+              144.7480954,
+              -37.7611412
+            ],
+            [
+              144.7481893,
+              -37.7611507
+            ],
+            [
+              144.7482926,
+              -37.7602283
+            ],
+            [
+              144.7482684,
+              -37.7600459
+            ],
+            [
+              144.7482751,
+              -37.7599866
+            ],
+            [
+              144.7479573,
+              -37.7599632
+            ],
+            [
+              144.747968,
+              -37.7598731
+            ]
+          ]
+        ]
+      },
+      "id": "way/121870160"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/187345697",
+        "brand": "Bunnings Warehouse",
+        "brand:wikidata": "Q4997829",
+        "brand:wikipedia": "en:Bunnings Warehouse",
+        "building": "retail",
+        "name": "Bunnings Warehouse",
+        "shop": "doityourself",
+        "website": "https://www.bunnings.com.au/stores/vic/dandenong"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              145.25019,
+              -38.0039661
+            ],
+            [
+              145.2501475,
+              -38.0042845
+            ],
+            [
+              145.250135,
+              -38.0044247
+            ],
+            [
+              145.2500854,
+              -38.0044228
+            ],
+            [
+              145.2500522,
+              -38.004755
+            ],
+            [
+              145.2501028,
+              -38.0047549
+            ],
+            [
+              145.2500917,
+              -38.0048692
+            ],
+            [
+              145.2500822,
+              -38.0052982
+            ],
+            [
+              145.2500516,
+              -38.0052984
+            ],
+            [
+              145.250024,
+              -38.0055552
+            ],
+            [
+              145.2509115,
+              -38.0056066
+            ],
+            [
+              145.2509373,
+              -38.0050871
+            ],
+            [
+              145.2510084,
+              -38.0050873
+            ],
+            [
+              145.251065,
+              -38.0044222
+            ],
+            [
+              145.2509038,
+              -38.0044084
+            ],
+            [
+              145.2509148,
+              -38.0042871
+            ],
+            [
+              145.2508214,
+              -38.004277
+            ],
+            [
+              145.2508394,
+              -38.0039971
+            ],
+            [
+              145.25019,
+              -38.0039661
+            ]
+          ]
+        ]
+      },
+      "id": "way/187345697"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/203429913",
+        "addr:city": "Collingwood",
+        "addr:housenumber": "181-189",
+        "addr:postcode": "3066",
+        "addr:street": "Victoria Parade",
+        "building": "retail",
+        "name": "Bunnings Warehouse",
+        "shop": "doityourself",
+        "website": "https://www.bunnings.com.au/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              144.9896487,
+              -37.8087775
+            ],
+            [
+              144.9896259,
+              -37.808905
+            ],
+            [
+              144.9895807,
+              -37.8088999
+            ],
+            [
+              144.9895425,
+              -37.8091135
+            ],
+            [
+              144.9895768,
+              -37.8091174
+            ],
+            [
+              144.9895417,
+              -37.8093137
+            ],
+            [
+              144.9898145,
+              -37.8093442
+            ],
+            [
+              144.9899133,
+              -37.8093838
+            ],
+            [
+              144.9900088,
+              -37.8093919
+            ],
+            [
+              144.9901111,
+              -37.8093774
+            ],
+            [
+              144.9903954,
+              -37.809409
+            ],
+            [
+              144.9904316,
+              -37.8092061
+            ],
+            [
+              144.9904921,
+              -37.8092128
+            ],
+            [
+              144.9905337,
+              -37.8089796
+            ],
+            [
+              144.9904855,
+              -37.8089743
+            ],
+            [
+              144.9905188,
+              -37.8087874
+            ],
+            [
+              144.9900787,
+              -37.8087383
+            ],
+            [
+              144.9900634,
+              -37.8088238
+            ],
+            [
+              144.9896487,
+              -37.8087775
+            ]
+          ]
+        ]
+      },
+      "id": "way/203429913"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/207536176",
+        "brand": "Bunnings Warehouse",
+        "brand:wikidata": "Q4997829",
+        "brand:wikipedia": "en:Bunnings Warehouse",
+        "building": "retail",
+        "full_name": "Bunnings Warehouse Chirnside Park",
+        "name": "Bunnings Warehouse",
+        "shop": "doityourself",
+        "website": "https://www.bunnings.com.au/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              145.3038937,
+              -37.7659782
+            ],
+            [
+              145.303222,
+              -37.7663717
+            ],
+            [
+              145.3044998,
+              -37.7678015
+            ],
+            [
+              145.3051865,
+              -37.7674285
+            ],
+            [
+              145.3046317,
+              -37.7668062
+            ],
+            [
+              145.3038937,
+              -37.7659782
+            ]
+          ]
+        ]
+      },
+      "id": "way/207536176"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/232226666",
+        "brand": "Bunnings Warehouse",
+        "brand:wikidata": "Q4997829",
+        "brand:wikipedia": "en:Bunnings Warehouse",
+        "building": "retail",
+        "building:colour": "seagreen",
+        "full_name": "Bunnings Warehouse Springvale",
+        "name": "Bunnings Warehouse",
+        "shop": "doityourself",
+        "website": "https://www.bunnings.com.au/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              145.1522377,
+              -37.9318684
+            ],
+            [
+              145.1521237,
+              -37.9324891
+            ],
+            [
+              145.1542879,
+              -37.9327662
+            ],
+            [
+              145.1544148,
+              -37.932139
+            ],
+            [
+              145.1534917,
+              -37.932015
+            ],
+            [
+              145.1534955,
+              -37.9319915
+            ],
+            [
+              145.1535003,
+              -37.9319703
+            ],
+            [
+              145.1531426,
+              -37.9319273
+            ],
+            [
+              145.1531385,
+              -37.9319477
+            ],
+            [
+              145.1531333,
+              -37.9319721
+            ],
+            [
+              145.1523794,
+              -37.9318848
+            ],
+            [
+              145.1522377,
+              -37.9318684
+            ]
+          ]
+        ]
+      },
+      "id": "way/232226666"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/235288849",
+        "building": "retail",
+        "name": "Bunnings Warehouse",
+        "shop": "doityourself",
+        "website": "https://www.bunnings.com.au/stores/vic/hastings"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              145.1849992,
+              -38.2854611
+            ],
+            [
+              145.1847525,
+              -38.2855916
+            ],
+            [
+              145.1847484,
+              -38.2856212
+            ],
+            [
+              145.1847096,
+              -38.2859032
+            ],
+            [
+              145.1865817,
+              -38.2860632
+            ],
+            [
+              145.1865978,
+              -38.2859874
+            ],
+            [
+              145.186791,
+              -38.2859958
+            ],
+            [
+              145.1868389,
+              -38.2855956
+            ],
+            [
+              145.1866455,
+              -38.2855762
+            ],
+            [
+              145.1857991,
+              -38.285517
+            ],
+            [
+              145.1858021,
+              -38.2854942
+            ],
+            [
+              145.1858053,
+              -38.2854697
+            ],
+            [
+              145.1856579,
+              -38.2854579
+            ],
+            [
+              145.1856533,
+              -38.2854852
+            ],
+            [
+              145.1856498,
+              -38.2855054
+            ],
+            [
+              145.1849992,
+              -38.2854611
+            ]
+          ]
+        ]
+      },
+      "id": "way/235288849"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/254455911",
+        "building": "yes",
+        "building:colour": "seagreen",
+        "height": "10 m",
+        "name": "Bunnings Warehouse",
+        "shop": "doityourself",
+        "website": "https://www.bunnings.com.au/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              145.021524,
+              -37.6926879
+            ],
+            [
+              145.0214086,
+              -37.6932355
+            ],
+            [
+              145.0216715,
+              -37.6932758
+            ],
+            [
+              145.0216608,
+              -37.6933501
+            ],
+            [
+              145.0238843,
+              -37.6936069
+            ],
+            [
+              145.023964,
+              -37.6935657
+            ],
+            [
+              145.0240511,
+              -37.6935768
+            ],
+            [
+              145.0244367,
+              -37.6930786
+            ],
+            [
+              145.0244173,
+              -37.6930149
+            ],
+            [
+              145.0240081,
+              -37.692971
+            ],
+            [
+              145.0229109,
+              -37.692846
+            ],
+            [
+              145.0227371,
+              -37.6928261
+            ],
+            [
+              145.021524,
+              -37.6926879
+            ]
+          ]
+        ]
+      },
+      "id": "way/254455911"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/256668550",
+        "addr:housenumber": "9-15",
+        "addr:postcode": "3012",
+        "addr:state": "VIC",
+        "addr:street": "Rosamond Road",
+        "addr:suburb": "Maidstone",
+        "area": "yes",
+        "brand": "Bunnings Warehouse",
+        "brand:wikidata": "Q4997829",
+        "brand:wikipedia": "en:Bunnings Warehouse",
+        "building": "retail",
+        "name": "Bunnings Warehouse",
+        "shop": "doityourself",
+        "website": "https://www.bunnings.com.au/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              144.8834599,
+              -37.775434
+            ],
+            [
+              144.8832451,
+              -37.7765632
+            ],
+            [
+              144.8831451,
+              -37.7765513
+            ],
+            [
+              144.8830797,
+              -37.7768956
+            ],
+            [
+              144.8839308,
+              -37.7769966
+            ],
+            [
+              144.8839835,
+              -37.7767191
+            ],
+            [
+              144.8840257,
+              -37.7767241
+            ],
+            [
+              144.8840743,
+              -37.7764688
+            ],
+            [
+              144.8841028,
+              -37.7764722
+            ],
+            [
+              144.8841312,
+              -37.7764755
+            ],
+            [
+              144.8841705,
+              -37.7762694
+            ],
+            [
+              144.8841392,
+              -37.7762657
+            ],
+            [
+              144.8841079,
+              -37.776262
+            ],
+            [
+              144.8841895,
+              -37.7758331
+            ],
+            [
+              144.8837467,
+              -37.7757805
+            ],
+            [
+              144.8838048,
+              -37.775475
+            ],
+            [
+              144.8834599,
+              -37.775434
+            ]
+          ]
+        ]
+      },
+      "id": "way/256668550"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/257724242",
+        "building": "retail",
+        "full_name": "Bunnings Warehouse Hoppers Crossing",
+        "name": "Bunnings Warehouse",
+        "shop": "doityourself"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              144.7123138,
+              -37.8743686
+            ],
+            [
+              144.7133524,
+              -37.8760513
+            ],
+            [
+              144.7140749,
+              -37.8757704
+            ],
+            [
+              144.7132338,
+              -37.8744376
+            ],
+            [
+              144.7131578,
+              -37.8744726
+            ],
+            [
+              144.7129433,
+              -37.8741315
+            ],
+            [
+              144.7123138,
+              -37.8743686
+            ]
+          ]
+        ]
+      },
+      "id": "way/257724242"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/307968523",
+        "brand": "Bunnings Warehouse",
+        "brand:wikidata": "Q4997829",
+        "brand:wikipedia": "en:Bunnings Warehouse",
+        "landuse": "retail",
+        "name": "Bunnings Warehouse",
+        "shop": "doityourself"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              145.1317595,
+              -37.8367501
+            ],
+            [
+              145.132456,
+              -37.8368343
+            ],
+            [
+              145.1349404,
+              -37.8371346
+            ],
+            [
+              145.1350975,
+              -37.8362824
+            ],
+            [
+              145.1350257,
+              -37.8361654
+            ],
+            [
+              145.1348433,
+              -37.8360861
+            ],
+            [
+              145.1319529,
+              -37.8356987
+            ],
+            [
+              145.1317595,
+              -37.8367501
+            ]
+          ]
+        ]
+      },
+      "id": "way/307968523"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/312188417",
+        "brand": "Bunnings Warehouse",
+        "brand:wikidata": "Q4997829",
+        "brand:wikipedia": "en:Bunnings Warehouse",
+        "building:colour": "seagreen",
+        "full_name": "Bunnings Warehouse Carrum Downs",
+        "landuse": "retail",
+        "name": "Bunnings Warehouse",
+        "shop": "doityourself",
+        "website": "https://www.bunnings.com.au/stores/vic/carrum-downs"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              145.1743703,
+              -38.0970113
+            ],
+            [
+              145.175698,
+              -38.0953261
+            ],
+            [
+              145.1756472,
+              -38.0952347
+            ],
+            [
+              145.1753337,
+              -38.0950934
+            ],
+            [
+              145.1751005,
+              -38.0949974
+            ],
+            [
+              145.1746915,
+              -38.094829
+            ],
+            [
+              145.1743252,
+              -38.0947167
+            ],
+            [
+              145.174117,
+              -38.0946672
+            ],
+            [
+              145.1739106,
+              -38.0946377
+            ],
+            [
+              145.1737888,
+              -38.0946549
+            ],
+            [
+              145.1736921,
+              -38.0946941
+            ],
+            [
+              145.173623,
+              -38.0947498
+            ],
+            [
+              145.1735513,
+              -38.0948312
+            ],
+            [
+              145.1734972,
+              -38.0949748
+            ],
+            [
+              145.173424,
+              -38.095269
+            ],
+            [
+              145.173338,
+              -38.0954902
+            ],
+            [
+              145.1730017,
+              -38.0962122
+            ],
+            [
+              145.1727173,
+              -38.0968028
+            ],
+            [
+              145.1732431,
+              -38.0968656
+            ],
+            [
+              145.1738772,
+              -38.09695
+            ],
+            [
+              145.1743703,
+              -38.0970113
+            ]
+          ]
+        ]
+      },
+      "id": "way/312188417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/355395857",
+        "addr:housenumber": "23-27",
+        "addr:street": "Nepean Highway",
+        "addr:suburb": "Mentone",
+        "brand": "Bunnings Warehouse",
+        "brand:wikidata": "Q4997829",
+        "brand:wikipedia": "en:Bunnings Warehouse",
+        "name": "Bunnings Warehouse",
+        "shop": "doityourself",
+        "toilets:wheelchair": "yes",
+        "website": "https://www.bunnings.com.au/stores/vic/mentone",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              145.0682069,
+              -37.9778117
+            ],
+            [
+              145.0708789,
+              -37.9766107
+            ],
+            [
+              145.0704519,
+              -37.9760436
+            ],
+            [
+              145.0691059,
+              -37.976646
+            ],
+            [
+              145.0684745,
+              -37.976942
+            ],
+            [
+              145.0681216,
+              -37.9771294
+            ],
+            [
+              145.0678046,
+              -37.9772704
+            ],
+            [
+              145.0682069,
+              -37.9778117
+            ]
+          ]
+        ]
+      },
+      "id": "way/355395857"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/457349982",
+        "addr:city": "Altona",
+        "addr:postcode": "3018",
+        "addr:state": "VIC",
+        "addr:street": "Millers Road",
+        "brand": "Bunnings Warehouse",
+        "brand:wikidata": "Q4997829",
+        "brand:wikipedia": "en:Bunnings Warehouse",
+        "building": "yes",
+        "name": "Bunnings Warehouse",
+        "opening_hours": "Mo-Fr 07:00-21:00; Sa 07:00-19:00; Su 07:00-18:00",
+        "shop": "doityourself",
+        "website": "https://www.bunnings.com.au/stores/vic/altona"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              144.8452285,
+              -37.846092
+            ],
+            [
+              144.8452763,
+              -37.8458299
+            ],
+            [
+              144.8448342,
+              -37.8457796
+            ],
+            [
+              144.8448928,
+              -37.8454583
+            ],
+            [
+              144.842676,
+              -37.845206
+            ],
+            [
+              144.8425829,
+              -37.8457161
+            ],
+            [
+              144.8431315,
+              -37.8457785
+            ],
+            [
+              144.8431181,
+              -37.8458518
+            ],
+            [
+              144.8452285,
+              -37.846092
+            ]
+          ]
+        ]
+      },
+      "id": "way/457349982"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/710597202",
+        "brand": "Bunnings Warehouse",
+        "brand:wikidata": "Q4997829",
+        "brand:wikipedia": "en:Bunnings Warehouse",
+        "building": "yes",
+        "height": "12",
+        "name": "Bunnings Warehouse",
+        "shop": "doityourself"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              144.8293027,
+              -37.7753432
+            ],
+            [
+              144.8291489,
+              -37.7761585
+            ],
+            [
+              144.831143,
+              -37.7763948
+            ],
+            [
+              144.8312797,
+              -37.7755932
+            ],
+            [
+              144.8293027,
+              -37.7753432
+            ]
+          ]
+        ]
+      },
+      "id": "way/710597202"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/736745323",
+        "brand": "Bunnings Warehouse",
+        "brand:wikidata": "Q4997829",
+        "brand:wikipedia": "en:Bunnings Warehouse",
+        "building": "retail",
+        "name": "Bunnings Warehouse",
+        "shop": "doityourself",
+        "website": "https://www.bunnings.com.au/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              144.7170201,
+              -37.5909391
+            ],
+            [
+              144.7171542,
+              -37.5902441
+            ],
+            [
+              144.7172722,
+              -37.5902611
+            ],
+            [
+              144.7173205,
+              -37.5899444
+            ],
+            [
+              144.716835,
+              -37.5898934
+            ],
+            [
+              144.716776,
+              -37.5901995
+            ],
+            [
+              144.7163442,
+              -37.590157
+            ],
+            [
+              144.7163475,
+              -37.5901388
+            ],
+            [
+              144.7163522,
+              -37.5901123
+            ],
+            [
+              144.7161484,
+              -37.5900868
+            ],
+            [
+              144.716147,
+              -37.5901145
+            ],
+            [
+              144.7161457,
+              -37.59014
+            ],
+            [
+              144.7151729,
+              -37.5900231
+            ],
+            [
+              144.7150675,
+              -37.5906522
+            ],
+            [
+              144.7151667,
+              -37.5907351
+            ],
+            [
+              144.7170201,
+              -37.5909391
+            ]
+          ]
+        ]
+      },
+      "id": "way/736745323"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/737754522",
+        "addr:housenumber": "46S",
+        "brand": "Bunnings Warehouse",
+        "brand:wikidata": "Q4997829",
+        "brand:wikipedia": "en:Bunnings Warehouse",
+        "building": "retail",
+        "full_name": "Bunnings Warehouse Clyde North",
+        "name": "Bunnings Warehouse",
+        "shop": "doityourself",
+        "website": "https://www.bunnings.com.au/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              145.333606,
+              -38.0917925
+            ],
+            [
+              145.3335365,
+              -38.0922906
+            ],
+            [
+              145.3334544,
+              -38.0922804
+            ],
+            [
+              145.3334099,
+              -38.0925903
+            ],
+            [
+              145.3334932,
+              -38.0926006
+            ],
+            [
+              145.3334073,
+              -38.0932155
+            ],
+            [
+              145.3338545,
+              -38.0932542
+            ],
+            [
+              145.3338356,
+              -38.0933895
+            ],
+            [
+              145.3346583,
+              -38.0934606
+            ],
+            [
+              145.334716,
+              -38.0930474
+            ],
+            [
+              145.3343132,
+              -38.0930125
+            ],
+            [
+              145.3345166,
+              -38.0915564
+            ],
+            [
+              145.3340752,
+              -38.0915182
+            ],
+            [
+              145.3340317,
+              -38.0918293
+            ],
+            [
+              145.333606,
+              -38.0917925
+            ]
+          ]
+        ]
+      },
+      "id": "way/737754522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/739529734",
+        "brand": "Bunnings Warehouse",
+        "brand:wikidata": "Q4997829",
+        "brand:wikipedia": "en:Bunnings Warehouse",
+        "building": "retail",
+        "name": "Bunnings Warehouse",
+        "shop": "doityourself",
+        "website": "https://www.bunnings.com.au/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              145.0926441,
+              -37.6036973
+            ],
+            [
+              145.0925931,
+              -37.6037674
+            ],
+            [
+              145.0930384,
+              -37.6051912
+            ],
+            [
+              145.0931457,
+              -37.6051657
+            ],
+            [
+              145.0932315,
+              -37.6052188
+            ],
+            [
+              145.0934541,
+              -37.6052315
+            ],
+            [
+              145.0938618,
+              -37.6051402
+            ],
+            [
+              145.0936097,
+              -37.6043646
+            ],
+            [
+              145.0936397,
+              -37.6043572
+            ],
+            [
+              145.0936794,
+              -37.6043476
+            ],
+            [
+              145.0936231,
+              -37.6041924
+            ],
+            [
+              145.0935906,
+              -37.6042003
+            ],
+            [
+              145.0935614,
+              -37.6042073
+            ],
+            [
+              145.0933576,
+              -37.6035507
+            ],
+            [
+              145.0926441,
+              -37.6036973
+            ]
+          ]
+        ]
+      },
+      "id": "way/739529734"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1583553454",
+        "brand": "Bunnings Warehouse",
+        "brand:wikidata": "Q4997829",
+        "brand:wikipedia": "en:Bunnings Warehouse",
+        "name": "Bunnings Warehouse",
+        "opening_hours": "Mo-Fr 07:00-21:00; Sa 07:00-19:00; Su 07:00-18:00",
+        "operator": "bunnings",
+        "shop": "doityourself",
+        "source": "local knowledge",
+        "website": "https://www.bunnings.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3092196,
+          -38.0221
+        ]
+      },
+      "id": "node/1583553454"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4270935296",
+        "name": "Bunnings Warehouse",
+        "shop": "doityourself",
+        "website": "https://www.bunnings.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0929395,
+          -37.8775077
+        ]
+      },
+      "id": "node/4270935296"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4270935297",
+        "brand": "Bunnings Warehouse",
+        "brand:wikidata": "Q4997829",
+        "brand:wikipedia": "en:Bunnings Warehouse",
+        "name": "Bunnings Warehouse",
+        "shop": "doityourself",
+        "website": "https://www.bunnings.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2229003,
+          -37.8154898
+        ]
+      },
+      "id": "node/4270935297"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4961163035",
+        "brand": "Bunnings Warehouse",
+        "brand:wikidata": "Q4997829",
+        "brand:wikipedia": "en:Bunnings Warehouse",
+        "name": "Bunnings Warehouse",
+        "shop": "doityourself"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.6644127,
+          -37.8987541
+        ]
+      },
+      "id": "node/4961163035"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5007307673",
+        "brand": "Bunnings Warehouse",
+        "brand:wikidata": "Q4997829",
+        "brand:wikipedia": "en:Bunnings Warehouse",
+        "name": "Bunnings Warehouse",
+        "shop": "doityourself",
+        "website": "https://www.bunnings.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3475898,
+          -37.757503
+        ]
+      },
+      "id": "node/5007307673"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6326609855",
+        "brand": "Bunnings Warehouse",
+        "brand:wikidata": "Q4997829",
+        "brand:wikipedia": "en:Bunnings Warehouse",
+        "name": "Bunnings Warehouse",
+        "shop": "doityourself"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0229906,
+          -37.7662678
+        ]
+      },
+      "id": "node/6326609855"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6552163029",
+        "brand": "Bunnings Warehouse",
+        "brand:wikidata": "Q4997829",
+        "brand:wikipedia": "en:Bunnings Warehouse",
+        "name": "Bunnings Warehouse",
+        "shop": "doityourself",
+        "website": "https://www.bunnings.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0851083,
+          -37.9220542
+        ]
+      },
+      "id": "node/6552163029"
+    }
+  ]
+}
